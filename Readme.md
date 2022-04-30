@@ -24,4 +24,4 @@ Increment this number until you see your webcam.
 <img src="https://github.com/paveldat/gesture_volume_control/blob/main/img/HandLandmarks.png">
 
 ## Result
-Coming soon 🤠
+![Alt Text](https://github.com/paveldat/finger_counter/blob/main/img/result.gif)
